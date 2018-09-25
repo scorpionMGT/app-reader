@@ -1,0 +1,35 @@
+{
+  "name": "app-reader",
+  "version": "1.2.2",
+  "description": "",
+  "homepage": "https://github.com/MGT360124/app-reader.git",
+  "main": "index.js",
+  "dependencies": {
+    "buffer": "^4.6.0",
+    "bytebuffer": "^5.0.1",
+    "inherits": "^2.0.1",
+    "isomorphic-png.js": "^0.2.4",
+    "isomorphic-unzip": "^1.1.0",
+    "xmldom": "^0.1.22",
+    "debug": "~0.7.4"
+  },
+  "keywords": [
+    "apk",
+    "parse",
+    "node",
+    "manifest"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MGT360124/app-reader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1142656486@qq.com",
+  "license": "ISC",
+  "engines": {
+    "node": ">=v8.11.3",
+    "npm": ">=v5.6.0"
+  }
+}
